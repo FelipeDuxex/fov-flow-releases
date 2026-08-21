@@ -1,15 +1,15 @@
 {
-  "version": "1.5.8",
+  "version": "1.5.9",
   "notes": "Atualização automática do FOV FLOW",
-  "pub_date": "2026-08-20T21:20:13.022Z",
+  "pub_date": "2026-08-21T14:09:04.33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGhNT3poMnNraEVoMUpYTjhLUlMyYzA2aWtyN25NTnhudXhySlA0dUtOQVBxRG93M1pEbmZJNTZmY1VJZjhTNHhBNjhSM1YrVnNxc3FPM21zWjJ1Qmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjYwODA4CWZpbGU6Rk9WIEZMT1dfMS41LjhfeDY0LXNldHVwLmV4ZQpoVStlMmczSEJOUlJxVkhyclIrUXhab3NrWElmb1NjelpvOUFZK1hmajAxQldZdTdQNnBUNWxVU2dCVjhjUTFxTXF2akdXaFhHNGRZcy9hbi9iTmNCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/FOV.FLOW_1.5.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGtsckZOQXZLckh2MGR4UFdzZldmK3M1R1M0ZTJDaHRTNGFwdExNWE9TSm9UbG9hSFozVk1XV1BPM3lwK1M2Tm93ajcvVzdlVXkyYmZYOXlHNlVrbWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzIxMzQxCWZpbGU6Rk9WIEZMT1dfMS41LjlfeDY0LXNldHVwLmV4ZQpxM3V1YmkxczVxMEROQldDSE8vcjFkQU8reS9LRjdkck9rRnVJckt5Y2dkNmtGcElxc3hYb0J2SFRkV2dPWTI1a1RYUDJFQmtHSHFtMFl1eHRkL2dBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/FOV.FLOW_1.5.9_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGhNT3poMnNraEVoMUpYTjhLUlMyYzA2aWtyN25NTnhudXhySlA0dUtOQVBxRG93M1pEbmZJNTZmY1VJZjhTNHhBNjhSM1YrVnNxc3FPM21zWjJ1Qmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjYwODA4CWZpbGU6Rk9WIEZMT1dfMS41LjhfeDY0LXNldHVwLmV4ZQpoVStlMmczSEJOUlJxVkhyclIrUXhab3NrWElmb1NjelpvOUFZK1hmajAxQldZdTdQNnBUNWxVU2dCVjhjUTFxTXF2akdXaFhHNGRZcy9hbi9iTmNCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/FOV.FLOW_1.5.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGtsckZOQXZLckh2MGR4UFdzZldmK3M1R1M0ZTJDaHRTNGFwdExNWE9TSm9UbG9hSFozVk1XV1BPM3lwK1M2Tm93ajcvVzdlVXkyYmZYOXlHNlVrbWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzIxMzQxCWZpbGU6Rk9WIEZMT1dfMS41LjlfeDY0LXNldHVwLmV4ZQpxM3V1YmkxczVxMEROQldDSE8vcjFkQU8reS9LRjdkck9rRnVJckt5Y2dkNmtGcElxc3hYb0J2SFRkV2dPWTI1a1RYUDJFQmtHSHFtMFl1eHRkL2dBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/FOV.FLOW_1.5.9_x64-setup.exe"
     }
   }
 }
