@@ -1,31 +1,31 @@
 {
-  "version": "1.7.7",
+  "version": "1.7.9",
   "notes": "Windows x64 e macOS universal. M1 físico e uso completo Flow/Premiere pendentes para validação em equipe.",
-  "pub_date": "2026-10-06T10:32:52.693Z",
+  "pub_date": "2026-10-06T12:15:27.573Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGpSekV2cXlkczJLaTV5b2NNNWZ6U1ovTmpMcWw4dmpvVXQ1QXRPOGJCV0M2NHNBZG1HNEQyb2g4YjRTUmEzcUhSbjFDU2N0dGxQbGp2L25TUm4vdVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgyMjM3CWZpbGU6Rk9WIEZMT1dfMS43LjdfeDY0LXNldHVwLmV4ZQpHSjdJajFVWmNMQ0pZcnB3ZU9vZUJoUENyVSs1ZHU3ZUJwa3FJUU5tdVhxTnI4NWV2Q2o4RnpXWjVkRjRseFVURVUvMWtUNVlNY3BWOXY0VzZwTmNDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.7/FOV.FLOW_1.7.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaHBQckxacHZJYS91MkRyRVVCK0g2TGRDREZidkZ0eVNOYlRCVEpWMHRsRFFaRWFwcUdLNWRCMlYzTjRGVmNVQUlIbmQzL09jOEpzTDFsZUFhTGtKeEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4MzE4CWZpbGU6Rk9WIEZMT1dfMS43LjlfeDY0LXNldHVwLmV4ZQpmcG51dXAzVnViai9SNVg5d3AvWE5TaHl0ZTBnc0NGdE9ZcFNzQlY0UFZqY0k3QTJMLzBscmRFWXBGWDBBYVJ3TTR0L3pQZW9TdjRxUEN4MGNUS0dDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.9/FOV.FLOW_1.7.9_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGpSekV2cXlkczJLaTV5b2NNNWZ6U1ovTmpMcWw4dmpvVXQ1QXRPOGJCV0M2NHNBZG1HNEQyb2g4YjRTUmEzcUhSbjFDU2N0dGxQbGp2L25TUm4vdVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgyMjM3CWZpbGU6Rk9WIEZMT1dfMS43LjdfeDY0LXNldHVwLmV4ZQpHSjdJajFVWmNMQ0pZcnB3ZU9vZUJoUENyVSs1ZHU3ZUJwa3FJUU5tdVhxTnI4NWV2Q2o4RnpXWjVkRjRseFVURVUvMWtUNVlNY3BWOXY0VzZwTmNDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.7/FOV.FLOW_1.7.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaHBQckxacHZJYS91MkRyRVVCK0g2TGRDREZidkZ0eVNOYlRCVEpWMHRsRFFaRWFwcUdLNWRCMlYzTjRGVmNVQUlIbmQzL09jOEpzTDFsZUFhTGtKeEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4MzE4CWZpbGU6Rk9WIEZMT1dfMS43LjlfeDY0LXNldHVwLmV4ZQpmcG51dXAzVnViai9SNVg5d3AvWE5TaHl0ZTBnc0NGdE9ZcFNzQlY0UFZqY0k3QTJMLzBscmRFWXBGWDBBYVJ3TTR0L3pQZW9TdjRxUEN4MGNUS0dDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.9/FOV.FLOW_1.7.9_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGdMMkNGSExoTk8wWVQxOFB4OU1jTFladXJCNThMbGZTRGF5MS9VNEtZeUZ1MEpJQmhlYmg3UzlUaEx0dnd6V3RHY2RDblpCSWNYMU44VEh2WVpuOWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgyNzY3CWZpbGU6Rk9WIEZMT1cuYXBwLnRhci5negpnQmUxUHNRdDhhV3pIUzdWVC9SaC9lemdTdStCamxwMlNKUWxUNG5BMG9rbmJldzJRT3Y4S0lRSW1sdy81YmtYK0RDNCtMbDRsY2tZN3gyM2dYbXFBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.7/FOV.FLOW_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaHVBVS8yTmhRTGt6VnhWRkVoeDcyNWZGcjRnWFpybDZnTzRRRTFySlo3MW1lYzVkdjJmRnZLTzR6Q3VkeW1kMVVFRkZqVEpWMVpSSG52MkJ4ODU1RndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4OTIyCWZpbGU6Rk9WIEZMT1cuYXBwLnRhci5negpEN1h2dnJuS0xLTVhLOGc2NFhkYzRQNlp5b3I5NjV4NlpXd2l4c2pYMUgzaTdxZzhJVFlJZ01HemJNT1VpMS9Ma05UTnhMRVMzRHRBTzU1dlN5Q1JCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.9/FOV.FLOW_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGdMMkNGSExoTk8wWVQxOFB4OU1jTFladXJCNThMbGZTRGF5MS9VNEtZeUZ1MEpJQmhlYmg3UzlUaEx0dnd6V3RHY2RDblpCSWNYMU44VEh2WVpuOWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgyNzY3CWZpbGU6Rk9WIEZMT1cuYXBwLnRhci5negpnQmUxUHNRdDhhV3pIUzdWVC9SaC9lemdTdStCamxwMlNKUWxUNG5BMG9rbmJldzJRT3Y4S0lRSW1sdy81YmtYK0RDNCtMbDRsY2tZN3gyM2dYbXFBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.7/FOV.FLOW_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaHVBVS8yTmhRTGt6VnhWRkVoeDcyNWZGcjRnWFpybDZnTzRRRTFySlo3MW1lYzVkdjJmRnZLTzR6Q3VkeW1kMVVFRkZqVEpWMVpSSG52MkJ4ODU1RndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4OTIyCWZpbGU6Rk9WIEZMT1cuYXBwLnRhci5negpEN1h2dnJuS0xLTVhLOGc2NFhkYzRQNlp5b3I5NjV4NlpXd2l4c2pYMUgzaTdxZzhJVFlJZ01HemJNT1VpMS9Ma05UTnhMRVMzRHRBTzU1dlN5Q1JCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.9/FOV.FLOW_universal.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGdMMkNGSExoTk8wWVQxOFB4OU1jTFladXJCNThMbGZTRGF5MS9VNEtZeUZ1MEpJQmhlYmg3UzlUaEx0dnd6V3RHY2RDblpCSWNYMU44VEh2WVpuOWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgyNzY3CWZpbGU6Rk9WIEZMT1cuYXBwLnRhci5negpnQmUxUHNRdDhhV3pIUzdWVC9SaC9lemdTdStCamxwMlNKUWxUNG5BMG9rbmJldzJRT3Y4S0lRSW1sdy81YmtYK0RDNCtMbDRsY2tZN3gyM2dYbXFBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.7/FOV.FLOW_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaHVBVS8yTmhRTGt6VnhWRkVoeDcyNWZGcjRnWFpybDZnTzRRRTFySlo3MW1lYzVkdjJmRnZLTzR6Q3VkeW1kMVVFRkZqVEpWMVpSSG52MkJ4ODU1RndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4OTIyCWZpbGU6Rk9WIEZMT1cuYXBwLnRhci5negpEN1h2dnJuS0xLTVhLOGc2NFhkYzRQNlp5b3I5NjV4NlpXd2l4c2pYMUgzaTdxZzhJVFlJZ01HemJNT1VpMS9Ma05UTnhMRVMzRHRBTzU1dlN5Q1JCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.9/FOV.FLOW_universal.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaGdMMkNGSExoTk8wWVQxOFB4OU1jTFladXJCNThMbGZTRGF5MS9VNEtZeUZ1MEpJQmhlYmg3UzlUaEx0dnd6V3RHY2RDblpCSWNYMU44VEh2WVpuOWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgyNzY3CWZpbGU6Rk9WIEZMT1cuYXBwLnRhci5negpnQmUxUHNRdDhhV3pIUzdWVC9SaC9lemdTdStCamxwMlNKUWxUNG5BMG9rbmJldzJRT3Y4S0lRSW1sdy81YmtYK0RDNCtMbDRsY2tZN3gyM2dYbXFBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.7/FOV.FLOW_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUckMrQkR6dTZNaHVBVS8yTmhRTGt6VnhWRkVoeDcyNWZGcjRnWFpybDZnTzRRRTFySlo3MW1lYzVkdjJmRnZLTzR6Q3VkeW1kMVVFRkZqVEpWMVpSSG52MkJ4ODU1RndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4OTIyCWZpbGU6Rk9WIEZMT1cuYXBwLnRhci5negpEN1h2dnJuS0xLTVhLOGc2NFhkYzRQNlp5b3I5NjV4NlpXd2l4c2pYMUgzaTdxZzhJVFlJZ01HemJNT1VpMS9Ma05UTnhMRVMzRHRBTzU1dlN5Q1JCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/FelipeDuxex/fov-flow-releases/main/releases/v1.7.9/FOV.FLOW_universal.app.tar.gz"
     }
   }
 }
